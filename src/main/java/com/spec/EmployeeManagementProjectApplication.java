@@ -9,6 +9,7 @@ public class EmployeeManagementProjectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EmployeeManagementProjectApplication.class, args);
 		System.out.println("Server started");
+		System.out.println("git demo");
 	}
 
 }
